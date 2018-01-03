@@ -1,0 +1,11 @@
+
+1. 以mac为例, `vi /etc/posts`, 添加
+
+```
+127.0.0.1 a.jrg.com
+127.0.0.1 b.jrg.com
+```
+
+2. `cd 降域`
+
+3. `http-server -c-1 `
