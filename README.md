@@ -9,3 +9,5 @@
 2. `cd 降域`
 
 3. `http-server -c-1 `
+
+4. 访问: http://a.jrg.com:8080/a.html
